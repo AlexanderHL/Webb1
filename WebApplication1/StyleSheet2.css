@@ -1,80 +1,43 @@
 ﻿
-
-/*------------------------------BROWSER RESET---------------------------------*/
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
-}
-
 body {
-    background-color: #FFF2C6;
-    background-image: url('Background.jpg');
-    width:960px;
-    margin:0px auto;
-}
-
-header div {
-    width: 966px;
     margin: 0 auto;
-    text-align:left;        
+    width:850px;
+    background-image: url('Background.jpg');
+    
 }
-
-
-footer {
-    background-color:#ddd;
-    height:20px;
-
-}
-
-
 #main {
-    background-color: #ffffff;
-
-    box-shadow: 0px 10px 20px grey;
-    border-radius: 5px 5px 5px 5px;
-    background: #8AC007;
-    padding: 20px;
-    overflow:auto; 
-    width:960px;
+    min-width:300px;
+    border:6px solid #171414;
+    -webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+    bottom:10px;
+    height:500px;
+    background-color:#171414;
+}
+#text {
+    color:darkorange;
+    line-height:inherit;
+    font-weight:bold;
+    font-style:inherit;
+    font-size:135%;
+    font-family:inherit;
 
 }
-
-.article {
-    background-color: #ddd;
-    margin:50px;
-    box-shadow: 10px 10px 20px grey;
-    height: 101px;
-    border-radius: 20px 20px 20px 20px;
-    background: #ccc;
-    padding: 20px; 
-    width:50%;
-    float:left;
+li{
+    list-style:none;
 }
 
-.tools {
-    background-color: #ddd;
-    margin:50px;
-    box-shadow: 10px 10px 20px grey;
-    height: 101px;
-    border-radius: 20px 20px 20px 20px;
-    background: #ccc;
-    padding: 20px; 
-    width:30%;
-    float:right;
+.listahuvud1 {
+    color: darkorange;
+    font-size: 180%;
+    margin-top: -540px;
+    margin-left: 820px;
+
+}
+a:link {
+    color: darkorange;
+}
+a:visited{
+    color: darkorange;
 }
