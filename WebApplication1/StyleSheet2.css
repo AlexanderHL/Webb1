@@ -1,31 +1,32 @@
 ﻿
 body {
     margin: 0 auto;
-    width:850px;
+    width: 850px;
     background-image: url('Background.jpg');
-    
 }
-#main {
-    min-width:300px;
-    border:6px solid #171414;
-    -webkit-border-radius: 20px;
--moz-border-radius: 20px;
-border-radius: 20px;
-    bottom:10px;
-    height:500px;
-    background-color:#171414;
-}
-#text {
-    color:darkorange;
-    line-height:inherit;
-    font-weight:bold;
-    font-style:inherit;
-    font-size:135%;
-    font-family:inherit;
 
+#main {
+    min-width: 300px;
+    border: 6px solid #171414;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    bottom: 10px;
+    height: 500px;
+    background-color: #171414;
 }
-li{
-    list-style:none;
+
+#text {
+    color: darkorange;
+    line-height: inherit;
+    font-weight: bold;
+    font-style: inherit;
+    font-size: 135%;
+    font-family: inherit;
+}
+
+li {
+    list-style: none;
 }
 
 .listahuvud1 {
@@ -33,11 +34,21 @@ li{
     font-size: 180%;
     margin-top: -540px;
     margin-left: 820px;
+    
 
 }
+
 a:link {
     color: darkorange;
 }
-a:visited{
+
+a:visited {
     color: darkorange;
 }
+
+h1 {
+    color: darkorange;
+    font-style: oblique;
+}
+    
+
