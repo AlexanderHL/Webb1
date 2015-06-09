@@ -70,10 +70,13 @@
     <Content Include="Biceps2.jpg" />
     <Content Include="Biceps23.png" />
     <Content Include="HtmlPage1.html" />
+    <Content Include="Kontakt information.html" />
+    <Content Include="Kosttillskott.html" />
     <Content Include="Muskelgrupper.html" />
     <Content Include="Namn.png" />
     <Content Include="StyleSheet1.css" />
     <Content Include="StyleSheet2.css" />
+    <Content Include="Tips från oss.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
