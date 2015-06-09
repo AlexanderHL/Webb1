@@ -36,6 +36,7 @@ li {
     font-size: 130%;
     margin-top: -540px;
     margin-left: 820px;
+  
 }
 
 a:link {
@@ -50,5 +51,8 @@ h1 {
     color: darkorange;
     font-style: oblique;
 }
-    
+.links {
+    position:relative;
+    top:400px;
+}    
 
