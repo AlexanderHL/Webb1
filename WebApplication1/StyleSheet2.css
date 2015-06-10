@@ -35,7 +35,7 @@ li {
     color: darkorange;
     font-size: 130%;
     margin-top: -540px;
-    margin-left: 820px;
+    margin-left: 900px;
   
 }
 
@@ -56,3 +56,45 @@ h1 {
     top:400px;
 }    
 
+#main1 {
+    min-width: 300px;
+    border: 6px solid #171414;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    bottom: 10px;
+    height: 200px;
+    background-color: #171414;
+    font-family:'Times New Roman', Times, serif;
+    font-style:inherit;
+}
+.links1 {
+    position:relative;
+    top:50px;
+}    
+.links2 {
+    position:relative;
+    top:400px;
+}    
+.links3 {
+    position:relative;
+    top:400px;
+}    
+.links4 {
+    position:relative;
+    top:400px;
+}    
+.links5{
+    position:relative;
+    top:400px;
+}    
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin:45px;
+}
