@@ -65,17 +65,23 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="arms.jpg" />
+    <Content Include="armsExercises.html" />
     <Content Include="back-exercise.jpg" />
+    <Content Include="backexercises.html" />
     <Content Include="Background.jpg" />
     <Content Include="Banner1.jpg" />
     <Content Include="Biceps2.jpg" />
     <Content Include="Biceps23.png" />
+    <Content Include="chestExerices.html" />
     <Content Include="exercises-chest.png" />
     <Content Include="HtmlPage1.html" />
     <Content Include="Kontakt information.html" />
     <Content Include="Kosttillskott.html" />
     <Content Include="Muskelgrupper.html" />
     <Content Include="Namn.png" />
+    <Content Include="sholuderExercises.html" />
+    <Content Include="shoulder.jpg" />
     <Content Include="StyleSheet1.css" />
     <Content Include="StyleSheet2.css" />
     <Content Include="Tips från oss.html" />
